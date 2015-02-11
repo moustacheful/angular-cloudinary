@@ -1,0 +1,21 @@
+{
+  "name": "angular-cloudinary",
+  "version": "0.0.0",
+  "description": "Tools for cloudinary in angularjs",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-coffee": "^2.3.1",
+    "gulp-concat": "^2.4.3",
+    "gulp-notify": "^2.1.0",
+    "gulp-plumber": "^0.6.6",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.1.0",
+    "gulp-watch": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moustacheful",
+  "license": "ISC"
+}
